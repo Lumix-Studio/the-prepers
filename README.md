@@ -1,2 +1,2 @@
 # The-Prepers
-É um jogo 
+É um jogo .
